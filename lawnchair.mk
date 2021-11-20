@@ -1,6 +1,6 @@
 # Lawnchair
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/lawnchair
+    vendor/yaap-prebuilts/lawnchair
 
 PRODUCT_PACKAGES += \
     Lawnchair \
