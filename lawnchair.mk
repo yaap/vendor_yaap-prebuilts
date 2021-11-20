@@ -5,5 +5,6 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_PACKAGES += \
     Lawnchair \
     LawnchairOverlay \
+    Lawnicons \
     lawnchair-hiddenapi-package-whitelist \
     privapp-permissions-lawnchair

@@ -1,6 +1,16 @@
 soong_namespace {
 }
 
+android_app_import {
+	name: "Lawnicons",
+	apk: "Lawnicons.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+}
+
+
 prebuilt_etc_xml {
 	name: "lawnchair-hiddenapi-package-whitelist",
 	src: "sysconfig/lawnchair-hiddenapi-package-whitelist.xml",
