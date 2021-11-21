@@ -4,6 +4,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 PRODUCT_PACKAGES += \
     Lawnchair \
+    LawnchairFrameworksOverlay \
     LawnchairOverlay \
     Lawnicons \
     lawnchair-hiddenapi-package-whitelist \
