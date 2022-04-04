@@ -51,12 +51,17 @@ PRODUCT_PACKAGES += \
     btc_gb.pb \
     cellcom_us.pb \
     cellcommno_us.pb \
+    chatr_ca.pb \
     cht_tw.pb \
+    cityfone_ca.pb \
+    claro_pr.pb \
     congstar_de.pb \
     coriolis_fr.pb \
     cricket5g_us.pb \
     cricket_us.pb \
     cspire_us.pb \
+    cspire_nl.pb \
+    dishatt_us.pb \
     docomo_jp.pb \
     docomomvno_jp.pb \
     ee_gb.pb \
@@ -139,6 +144,7 @@ PRODUCT_PACKAGES += \
     tmobile_cz.pb \
     tmobile_nl.pb \
     tmobile_us.pb \
+    tmomvno_nl.pb \
     tracfonetmo_us.pb \
     tracfoneverizon_us.pb \
     tstar_tw.pb \
